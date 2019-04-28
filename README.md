@@ -1,4 +1,5 @@
 # recovery-mysql
+recovery password root mysql
 
 Pertama-tama silakan masuk ke dalam system operasi Ubuntu anda dan matikan service database mysql dengan menjalankan perintah:
 
